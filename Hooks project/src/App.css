@@ -1,0 +1,16 @@
+#main{
+font-size: 20px;
+}
+#main button{
+  padding: 10px;
+  border-radius: 8px;
+  border: 3px solid black;
+}
+#main h1{
+  color: rgb(126, 114, 102);
+}
+#main button:hover{
+  cursor: pointer;
+  background-color: aliceblue;
+  padding: 11px;
+}

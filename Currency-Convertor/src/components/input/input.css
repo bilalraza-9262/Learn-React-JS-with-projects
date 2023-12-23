@@ -1,0 +1,26 @@
+.inner {
+	display: flex;
+	justify-content: space-between;
+	height: 6rem;
+	margin: 8px;
+}
+
+.userInput {
+	padding: 5px;
+}
+
+/* .righter {
+	background-color: orange;
+} */
+
+.labels {
+	margin: 10px;
+	display: block;
+	font-size: 20px;
+	/* color: white; */
+}
+
+#selector {
+	margin-left: 10px;
+	padding: 5px;
+}

@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(48, 44, 44);
+}
+.main{
+  border: 2px solid whitesmoke;
+  padding: 10px;
+}

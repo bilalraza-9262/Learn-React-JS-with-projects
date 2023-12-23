@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+  margin-left: 30%;
+  background-color: aliceblue;
+  position: fixed;
+  height: 50px;
+  width: 40vw;
+  text-align: center;
+  bottom: 15px;
+  border-radius: 10px;
+  background-color: rgba(35, 35, 34, 0.235);
+}
+
+.bottom button {
+  margin: 7px;
+  border-radius: 5px;
+}
